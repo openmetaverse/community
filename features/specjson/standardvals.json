@@ -3,5 +3,5 @@
 { "name": "🔵 Evaluation", "id": 2},
 { "name": "🟠 Building", "id": 3},
 { "name": "🟡 In Review", "id": 4},
-{ "name": "🟢 Published", "id": 5},
+{ "name": "🟢 Published", "id": 5}
 ]
