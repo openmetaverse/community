@@ -1,0 +1,22 @@
+{
+   "BuildBranch":"NA",
+   "BuildVersion":"NA",
+   "FIG": "FIG-Users",
+   "Subsystems": {
+      "NewSubsystem": [
+         {
+            "Name": "New Module",
+            "State": "",
+            "Code/API": "",
+            "Content": "",
+            "Functional": "",
+            "Performance": "",
+            "Tests": "",
+            "Standard": "",
+            "Link": "",
+            "Doc": "",
+            "Description": ""
+         }
+      ]
+   }
+}

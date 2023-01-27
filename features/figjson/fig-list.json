@@ -1,0 +1,11 @@
+[
+{ "name": "None", "url": "" },
+{ "name": "fig-ai", "url": "figjson/fig-ai.json" },
+{ "name": "fig-users", "url": "figjson/fig-users.json" },
+{ "name": "fig-transactions", "url": "figjson/fig-transactions.json" },
+{ "name": "fig-security", "url": "figjson/fig-security.json" },
+{ "name": "fig-legalpolicy", "url": "figjson/fig-legalpolicy.json" },
+{ "name": "fig-digitalassets", "url": "figjson/fig-digitalassets.json" },
+{ "name": "fig-virtualworldsim", "url": "figjson/fig-virtualworldsim.json" },
+{ "name": "fig-networking", "url": "figjson/fig-networking.json" }
+]

@@ -1,0 +1,22 @@
+{
+   "BuildBranch":"NA",
+   "BuildVersion":"NA",
+   "FIG": "FIG-Virtual Worlds and Simulations",
+   "Subsystems": {
+      "NewSubsystem": [
+         {
+            "Name": "New Module",
+            "State": "",
+            "Code/API": "",
+            "Content": "",
+            "Functional": "",
+            "Performance": "",
+            "Tests": "",
+            "Standard": "",
+            "Link": "",
+            "Doc": "",
+            "Description": ""
+         }
+      ]
+   }
+}

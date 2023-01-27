@@ -1,0 +1,7 @@
+[
+{ "name": "❌ None", "id": 1},
+{ "name": "🔵 Proposed", "id": 3},
+{ "name": "🟠 Sandbox", "id": 4},
+{ "name": "🟡 Incubating", "id": 5},
+{ "name": "🟢 Graduated", "id": 6}
+]
