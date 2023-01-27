@@ -7,7 +7,8 @@
          {
             "Name": "New Module",
             "State": "",
-            "Code/API": "",
+            "Design": "",
+            "Code/API": "5",
             "Content": "",
             "Functional": "",
             "Performance": "",
@@ -15,7 +16,7 @@
             "Standard": "",
             "Link": "",
             "Doc": "",
-            "Description": ""
+            "Notes": ""
          }
       ]
    }
