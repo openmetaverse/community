@@ -40,4 +40,4 @@ Whether it's filing an issue, updating existing docs, or even writing completely
 
 ## Contact
 
-You can reach us on [Discord](https://discord.gg/openmetaverse), [Slack](https://join.slack.com/t/openmetaverse/shared_invite/zt-1nm1r7t06-AAP4s69ZY2b_zMyur0aS3g), [Mailing List](https://lists.openmv.org/g/main) and our [Website](https://www.openmv.org/about/contact-us/).
+You can reach us on [Discord](https://discord.gg/openmetaverse), [Slack](https://join.slack.com/t/openmetaverse/shared_invite/zt-1nm1r7t06-AAP4s69ZY2b_zMyur0aS3g), [Mailing List](https://lists.openmv.org/g/main), [Matrix](https://matrix.openmv.org/) and our [Website](https://www.openmv.org/about/contact-us/). The messages are replicated between all the communication channels (Discord, Slack and Matrix) so you can pick whichever you are most familiar with and join!
