@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-# O3DE Suggestion RFC Template
+# OMF Suggestion RFC Template
 
 ### When using this template, you do not have to fill out every question below. The questions are there for guidance.
 
-This RFC template should be used for any suggestion that is not based upon code or content related to the O3DE product itself. This template is for proposing new process models, approaches, or ideas to improve the O3DE community.
+This RFC template should be used for any suggestion that the community should consider. This template is for proposing new process models, approaches, or ideas to improve the community.
 
 A hastily proposed RFC can hurt its chances of acceptance. Low-quality proposals, proposals for previously rejected features, or those that do not have any substantive value to the project may be quickly rejected, demotivating the unprepared contributor. Laying some groundwork with others in the community ahead of the RFC can make the process much smoother.
 
@@ -48,7 +48,7 @@ What should the outcome be if this suggestion is implemented?
 - Explain any disadvantages or trade-offs to using this suggestion
 
 ### How will this be work within the O3DE project?
-- Explain how this suggestion will be work within the O3DE project.
+- Explain how this suggestion will be work within the foundation or its groups.
 
 ### Are there any alternatives to this suggestion?
 - Provide any other alternative ways that have been considered. 
@@ -58,4 +58,4 @@ What should the outcome be if this suggestion is implemented?
 ### What is the strategy for adoption?
 - Explain how new and existing users will adopt this suggestion.
 - Point out any efforts needed if it requires coordination with multiple SIGs or other projects. 
-- Explain how it would be taught to new and existing O3DE users.
+- Explain how it would be taught to new and existing users.
