@@ -31,7 +31,7 @@ As we just started our works, joining the meetings is essential to give feedback
 This is the current agenda for the meetings:
 |     **Group**     | **Periodicity** | **Timezone** |
 |:-----------------:|:---------------:|:------------:|
-| Community (NA/EU) |      Weekly     |   16:00 EST  |
+| Community (NA/EU) |      Weekly     |   13:00 EST  |
 |  Community (APAC) |      Weekly     |   14:00 JST  |
 
 You can also check out our [calendar](https://lists.openmv.org/g/calendar/calendar) for events and past meeting notes, and the agendas can be found at [Github Issues](https://github.com/Open-MV/community/issues?q=is%3Aissue).
