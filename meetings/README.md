@@ -17,7 +17,7 @@ Below is a list of all prior completed meetings and related resources.
 | No   | Date       | Time | Agenda  | Media | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
 | 0001 | 2023-01-31 | 2100 UTC | [Link](https://github.com/Open-MV/community/discussions/13) | n/a | Link | Link |
-| 0002 | 2023-02-07 | 2100 UTC | [Link](https://github.com/Open-MV/community/discussions/9) | n/a | Link | Link |
+| 0002 | 2023-02-07 | 2100 UTC | [Link](https://github.com/Open-MV/community/discussions/9) | [Recording](https://github.com/Open-MV/community/blob/main/meetings/media/Community-20230207.m4a) | Link | Link |
 
 
 ## Agenda Items
