@@ -4,9 +4,21 @@ Each Open Metaverse Foundational Interest Group (SIG) hosts a regular community 
 
 OMF cannot work without the help and input from as many of its community members as possible. *You do not need anyone's permission to get involved and contribute to the project.* The FIGs channels on [OMF Discord](https://discord.gg/openmetaverse) is a great place to begin getting involved. Many of our community members regularly share ideas, updates, and resources there. You can also find a number of topics under the [GitHub Discussions area](https://github.com/Open-MV/community/discussions) which need your input.
 
-## Meetings
+## Agenda Items
 
-TBA.
+You can find a link to the proposed agenda for the next call in the table below. The agenda for each meeting is saved by date as [a discussion on Github](https://github.com/Open-MV/community/discussions/categories/meetings).
+
+# Previous Meetings
+
+Below is a list of all prior completed meetings and related resources.
+
+## Documentation Special Interest Group
+
+| No   | Date       | Time | Agenda  | Media | Notes | Resources |
+| ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
+| 0001 | 2023-01-31 | 2100 UTC | [Link](https://github.com/Open-MV/community/discussions/13) | n/a | Link | Link |
+| 0002 | 2023-02-07 | 2100 UTC | [Link](https://github.com/Open-MV/community/discussions/9) | n/a | Link | Link |
+
 
 ## Agenda Items
 
