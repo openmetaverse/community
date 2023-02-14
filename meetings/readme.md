@@ -12,8 +12,6 @@ You can find a link to the proposed agenda for the next call in the table below.
 
 Below is a list of all prior completed meetings and related resources.
 
-## Documentation Special Interest Group
-
 | No   | Date       | Time | Agenda  | Media | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
 | 0001 | 2023-01-31 | 2100 UTC | [Link](https://github.com/Open-MV/community/discussions/9) | n/a | Link | Link |
