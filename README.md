@@ -4,6 +4,8 @@ Welcome to the Open Metaverse Foundation (OMF) Community documentation. This is 
 
 First and foremost, ensure you read the [code of conduct](CODE_OF_CONDUCT.md) and [values](values.md) guides. Then reach out to *Foundational Interest Groups* (FIGs) that are involved in the areas you want to contribute to.
 
+## View [weekly meetings](./meetings/readme.md#Previous-Meetings) with the agenda, notes and audio recordings.
+
 ## What is the current structure of OMF?
 As of Jan. 2023, the Foundation is divided in eight Foundational Interest Groups (FIGs). Each FIG is responsible for the discussions and proposals of certain points related to the open metaverse structure. The current FIGs, and its responsabilities, are:
 |             **FIG**            |                                                                                                 **Overview of Responsabilities**                                                                                                |
