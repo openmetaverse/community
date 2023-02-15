@@ -1,6 +1,6 @@
 # OMF Community FIG Meetings
 
-Each Open Metaverse Foundational Interest Group (SIG) hosts a regular community meeting to update the community about the progress of the project and the SIG's contribution to the project. It is a recurring event to give everyone a chance to have their voice heard. The FIG holds its meetings (TBA periodicity), and future meetings are held based on the agendas which will be available on Github.
+Each Open Metaverse Foundational Interest Group (FIG) hosts a regular community meeting to update the community about the progress of the project and the SIG's contribution to the project. It is a recurring event to give everyone a chance to have their voice heard. The FIG holds its meetings (TBA periodicity), and future meetings are held based on the agendas which will be available on Github.
 
 OMF cannot work without the help and input from as many of its community members as possible. *You do not need anyone's permission to get involved and contribute to the project.* The FIGs channels on [OMF Discord](https://discord.gg/openmetaverse) is a great place to begin getting involved. Many of our community members regularly share ideas, updates, and resources there. You can also find a number of topics under the [GitHub Discussions area](https://github.com/Open-MV/community/discussions) which need your input.
 
