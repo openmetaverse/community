@@ -31,11 +31,12 @@ In summary, our responsibilities include:
 As we just started our works, joining the meetings is essential to give feedback and influence how the future metaverse will look like. Everyone is welcome and, for every group, we have an agenda posted few days before, and we also need people who volunteer for taking notes or even facilitate the meetings!
 
 This is the current agenda for the meetings:
-|    **Group**    | **Periodicity** | **Date** |
-|:---------------:|:---------------:|:--------:|
-| General Meeting |     Biweekly    |   (TBA)  |
+|     **Group**     | **Periodicity** | **Timezone** |
+|:-----------------:|:---------------:|:------------:|
+| Community (NA/EU) |      Weekly     |   13:00 EST  |
+|  Community (APAC) |      Weekly     |   14:00 JST  |
 
-You can also check out our [calendar](https://lists.openmv.org/g/calendar/calendar) for events and past meeting notes.
+You can also check out our [calendar](https://lists.openmv.org/g/calendar/calendar) for events and past meeting notes, and the agendas can be found at [Github Issues](https://github.com/Open-MV/community/issues?q=is%3Aissue).
 
 **Contribute in our documentation and guidelines**
 Whether it's filing an issue, updating existing docs, or even writing completely new docs - we highly appreciate all efforts to improving the documentation. We are still developing standard ways to take notes as of now! 
