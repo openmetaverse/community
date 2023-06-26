@@ -8,7 +8,7 @@ First and foremost, ensure you read the [code of conduct](CODE_OF_CONDUCT.md) an
 
 ## What is the current structure of OMF?
 As of Jan. 2023, the Foundation is divided in eight Foundational Interest Groups (FIGs). Each FIG is responsible for the discussions and proposals of certain points related to the open metaverse structure. The current FIGs, and its responsabilities, are:
-|             **FIG**            |                                                                                                 **Overview of Responsabilities**                                                                                                |
+|             **FIG**            |                                                                                                 **Overview of Responsibilities**                                                                                                |
 |:------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Users                          | Responsible for fostering open source and standards to support user-focused objects.                                                                                                                                            |
 | Transactions                   | Dedicated to creating open source and standards for the transfer of ownership and receipts required to audit and verify objects.                                                                                                |
